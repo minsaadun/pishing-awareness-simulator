@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-     base: '/pishing-awareness-simulator/',
+     base: '/phishing-awareness-simulator/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
