@@ -1,0 +1,6 @@
+{
+  "name": "Phishing Awareness Simulator",
+  "description": "Simulator Kesedaran Phishing interaktif dalam Bahasa Melayu untuk membantu pengguna mengenali taktik penipuan siber.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
